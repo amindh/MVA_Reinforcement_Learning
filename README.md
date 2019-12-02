@@ -1,6 +1,6 @@
 # REINFORCEMENT LEARNING
 
-$\bullet$ Professors: Alessandro Lazaric (INRIA & FAIR)
+* **Professors**: Alessandro Lazaric (INRIA & FAIR)
 
 # OBJECTIVE OF THE COURSE 
 
